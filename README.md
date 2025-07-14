@@ -1,7 +1,7 @@
 # Tıbbi Görüntülerin Derin Öğrenme Yaklaşımlarıyla Otomatik Raporlanması
 ## 📸 Proje Ekran Görüntüsü
 
-![Proje Ekran Görüntüsü](ven39/screenshot.png)
+![Proje Ekran Görüntüsü](venv39/screenshot.png)
 
 ## 📖 Proje Tanımı  
 Bu proje, göğüs röntgeni (X-ray) görüntülerinden derin öğrenme tabanlı bir Encoder–Decoder mimarisi (ResNet-50 + GPT-2) kullanarak otomatik İngilizce rapor üretiyor, ardından facebook/nllb-200-distilled-600M modeliyle Türkçeye çeviriyor. Sonuçlar hem terminal hem de Gradio tabanlı web arayüzünde kullanıcıya sunuluyor :contentReference[oaicite:0]{index=0}.
