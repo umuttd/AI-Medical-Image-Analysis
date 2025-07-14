@@ -1,5 +1,5 @@
 # Tıbbi Görüntülerin Derin Öğrenme Yaklaşımlarıyla Otomatik Raporlanması
-## 📸 Proje Ekran Görüntüsü
+
 
 ![Proje Ekran Görüntüsü](venv39/screenshot.png)
 
